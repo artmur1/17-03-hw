@@ -33,7 +33,7 @@
 
 ### Решение 1
 
-![alt text](https://github.com/artmur1/17-02-hw/blob/main/img/17)
+![alt text](https://github.com/artmur1/17-03-hw/blob/terraform-03/img/17-03-1-1.png)
 
 ------
 
@@ -53,7 +53,13 @@ variable "each_vm" {
 
 ### Решение 2
 
+![alt text](https://github.com/artmur1/17-03-hw/blob/terraform-03/img/17-03-2-1.png)
 
+![alt text](https://github.com/artmur1/17-03-hw/blob/terraform-03/img/17-03-2-2.png)
+
+![alt text](https://github.com/artmur1/17-03-hw/blob/terraform-03/img/17-03-2-3.png)
+
+![alt text](https://github.com/artmur1/17-03-hw/blob/terraform-03/img/17-03-2-10.png)
 
 ------
 
@@ -64,7 +70,7 @@ variable "each_vm" {
 
 ### Решение 3
 
-
+![alt text](https://github.com/artmur1/17-03-hw/blob/terraform-03/img/17-03-3-1.png)
 
 ------
 
@@ -96,7 +102,11 @@ storage ansible_host=<внешний ip-адрес> fqdn=<полное доме�
 
 ### Решение 4
 
+![alt text](https://github.com/artmur1/17-03-hw/blob/terraform-03/img/17-03-4-2.png)
 
+![alt text](https://github.com/artmur1/17-03-hw/blob/terraform-03/img/17-03-4-3.png)
+
+![alt text](https://github.com/artmur1/17-03-hw/blob/terraform-03/img/17-03-4-1.png)
 
 ------
 
